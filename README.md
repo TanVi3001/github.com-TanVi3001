@@ -3,7 +3,7 @@
 
 ### 🙇🏻 Information
 <br/><br/>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZlbmtiam1rNTlvbzl2cmp6MWZicm5naTVyczNwMjM4Y3g1aXJoZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="230">
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 <p>
