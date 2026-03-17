@@ -96,13 +96,11 @@
   </tr>
 </table>
 
-<hr>
-
-
 
 ## 🐍 GitHub Snake
 ![snake gif](https://raw.githubusercontent.com/TanVi3001/TanVi3001/output/github-contribution-grid-snake-dark.svg)
 
 
+<hr>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
