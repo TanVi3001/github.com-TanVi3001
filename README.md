@@ -7,6 +7,8 @@
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 
+## 🐍 GitHub Snake
+![snake gif](https://raw.githubusercontent.com/TanVi3001/TanVi3001/output/github-contribution-grid-snake-dark.svg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=vision-friendly-dark)
 
