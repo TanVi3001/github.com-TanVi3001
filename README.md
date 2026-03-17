@@ -7,10 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 <p>
-<br/><i>• 🎓 Sinh viên khoa Hệ thống Thông tin tại trường Đại học Công nghệ Thông tin (UIT).</i>
-<br/><i>• 🌱 Research  <b>Machine Learning</b> và <b>Computer Vision</b>  (K-means, DBSCAN, GMM,...).</i>
-<br/><i>• 🔭 Đang phát triển dự án <b>HomeFix</b> - hệ sinh thái kết nối dịch vụ sửa chữa.</i>
-<br/><i>• 💡 Đam mê tìm hiểu về Computer Networks, Operating Systems, Cấu trúc dữ liệu & Thuật toán.</i>
+
 <br/><br/><b>Core Competencies</b>
  <br/><i>• Data Analytics / Machine Learning</i>
  <br/><i>• Programming (Python, Java, C++)</i>
