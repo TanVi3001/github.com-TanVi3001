@@ -10,11 +10,11 @@
 <br/><i>• 🎓 Sinh viên khoa Hệ thống Thông tin tại trường Đại học Công nghệ Thông tin (UIT).</i>
 <br/><i>• 🌱 Đang tập trung nghiên cứu chuyên sâu về <b>Data Analysis</b> và <b>Machine Learning</b> (K-means, DBSCAN, GMM,...).</i>
 <br/><i>• 🔭 Đang phát triển dự án <b>HomeFix</b> - hệ sinh thái kết nối dịch vụ sửa chữa.</i>
-<br/><i>• 💡 Tìm hiểu về Computer Networks, Operating Systems, Cấu trúc dữ liệu & Thuật toán.</i>
+<br/><i>• 💡 Đam mê tìm hiểu về Computer Networks, Operating Systems, Cấu trúc dữ liệu & Thuật toán.</i>
 <br/><br/><b>Core Competencies</b>
  <br/><i>• Data Analytics / Machine Learning</i>
  <br/><i>• Programming (Python, Java, C++)</i>
- <br/><i>• Database Management (SQL)</i>
+ <br/><i>• Database Management (SQL, Oracle)</i>
  <br/><i>• Logical thinking & Problem Analysis</i>
  <br/><i>• Teamwork & Sharing Knowledge</i>
  </p>
@@ -61,6 +61,18 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" />
+      </a>
+      <br>Oracle
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
     </td>
   </tr>
 </table>
