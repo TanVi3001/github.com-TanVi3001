@@ -4,7 +4,6 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Lê+Tấn+Vĩ+👋)](https://git.io/typing-svg)
 
-
 <h1> 🙇🏻 Information </h1>
 
 <br/>
@@ -91,7 +90,6 @@
 </table>
 
 </div>
-
 
 
 <h2 align="center">🐍 GitHub Snake</h2>
