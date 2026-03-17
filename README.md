@@ -9,7 +9,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vi.tan.7982780)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=vision-friendly-dark)
 
