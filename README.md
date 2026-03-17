@@ -1,9 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![dreamina-2026-03-17-6240-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/8cb10f6d-bb9f-49cc-82bc-19b1cc8b290f)![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Lê+Tấn+Vĩ+👋)](https://git.io/typing-svg)
 
 ### 🙇🏻 Information
 <br/><br/>
-<img align='right' src="https://dreamina.onelink.me/yKT4/3kb3hqae" width="230">
+<img align='right' src="![Uploading dreamina-2026-03-17-6240-ezgif.com-video-to-gif-converter.gif…]()
+" width="230">
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 <p>
