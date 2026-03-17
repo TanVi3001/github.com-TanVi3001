@@ -9,7 +9,7 @@
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 <p>
 <br/><br/><b>Core Competencies</b>
- <br/><i>• Data Analytics / Machine Learning</i>
+ <br/><i>• Data Analytics / Machine Learning / Computer Vision</i>
  <br/><i>• Programming (Python, Java, C++)</i>
  <br/><i>• Database Management (SQL, Oracle)</i>
  <br/><i>• Logical thinking & Problem Analysis</i>
