@@ -7,7 +7,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
 <p>
-
 <br/><br/><b>Core Competencies</b>
  <br/><i>• Data Analytics / Machine Learning</i>
  <br/><i>• Programming (Python, Java, C++)</i>
