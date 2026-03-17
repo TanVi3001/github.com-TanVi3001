@@ -3,49 +3,46 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+a+Data+Analyst+Student;Specializing+in+Machine+Learning;Welcome+to+my+Github+Profile!+🚀" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello,+I'm+a+Data+Analyst+Student;Specializing+in+Machine+Learning;Welcome+to+my+Github+Profile!+🚀" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🙇🏻 About Me
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td width="60%" style="border: none; vertical-align: top;">
-      <p>
-        <img src="https://img.shields.io/github/followers/TanVi3001?label=Follow&style=for-the-badge&color=21262d" />
-        <img src="https://img.shields.io/badge/UIT-Student-blue?style=for-the-badge&logo=university&logoColor=white" />
-      </p>
-      <b>🎯 Core Competencies:</b>
-      <ul>
-        <li><i>Data Analytics / Machine Learning / Computer Vision</i></li>
-        <li><i>Programming (Python, Java, C++)</i></li>
-        <li><i>Database Management (SQL, Oracle)</i></li>
-        <li><i>Logical Thinking & Problem Analysis</i></li>
-        <li><i>Teamwork & Sharing Knowledge</i></li>
-      </ul>
-      <p>📬 <b>Connect with me:</b> 24521985@gm.uit.edu.vn</p>
-    </td>
-    <td width="40%" style="border: none; align: center;">
-      <img src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="300" style="border-radius: 15px;"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/83c23519-b80a-4bfa-9aad-5004939ddfdb" width="300" style="border-radius: 15px;" alt="Coding Dog" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/TanVi3001?label=Followers&style=for-the-badge&color=21262d" />
+  <img src="https://img.shields.io/badge/UIT-Student-blue?style=for-the-badge&logo=university&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>🎯 Core Competencies:</b>
+  <ul>
+    <li>Data Analytics / Machine Learning / Computer Vision</li>
+    <li>Programming (Python, Java, C++)</li>
+    <li>Database Management (SQL, Oracle)</li>
+    <li>Logical Thinking & Problem Analysis</li>
+    <li>Teamwork & Sharing Knowledge</li>
+  </ul>
+</p>
+
+<p align="center">📬 <b>Connect with me:</b> 24521985@gm.uit.edu.vn</p>
 
 ---
 
 ### 📊 Github Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=TanVi3001&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanVi3001&layout=compact&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180px" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanVi3001&show_icons=true&theme=vision-friendly-dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="180px" alt="Github Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanVi3001&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&color=58a6ff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanVi3001&theme=react-dark&bg_color=0d1117&hide_border=true&line=58a6ff&color=58a6ff" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
@@ -59,8 +56,8 @@
 
 ### 🛠 Favorite Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,oracle,github" /><br><br>
-  <img src="https://skillicons.dev/icons?i=r,tensorflow,opencv,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,r,tensorflow,opencv" /><br><br>
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,github,git,vscode,linux" />
 </p>
 
 ---
