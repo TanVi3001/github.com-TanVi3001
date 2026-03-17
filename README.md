@@ -1,4 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Lê%20Tấn%20Vĩ&fontSize=70&animation=fadeIn" />
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=35&duration=3500&pause=3&color=6994CDEE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Hello,+I'm+Lê+Tấn+Vĩ+👋)](https://git.io/typing-svg)
 
 ### 🙇🏻 Information
