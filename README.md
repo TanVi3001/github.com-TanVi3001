@@ -3,7 +3,7 @@
 
 ### 🙇🏻 Information
 <br/><br/>
-<img align='right' src="![Uploading dreamina-2026-03-17-6240-ezgif.com-video-to-gif-converter.gif…]()
+<img align='right' src="https://github.com/user-attachments/assets/e8a7fddb-599c-4b75-ad19-306ad0119a97
 " width="230">
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
