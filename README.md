@@ -3,7 +3,7 @@
 
 ### 🙇🏻 Information
 <br/><br/>
-<img align='right' src="https://github.com/user-attachments/assets/8cb10f6d-bb9f-49cc-82bc-19b1cc8b290f" width="260">
+<img align='right' src="https://github.com/user-attachments/assets/8cb10f6d-bb9f-49cc-82bc-19b1cc8b290f" width="360">
 
 ![GitHub followers](https://img.shields.io/github/followers/TanVi3001?label=Follow&style=social)
 [![UIT](https://img.shields.io/badge/UIT-Student-blue?style=flat-square)](#)
